@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * _abs - Entry point
  * @n: n is an integer
